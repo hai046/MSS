@@ -1,5 +1,4 @@
-shadowsocks
-from shadowsocks  
+shadowsocks [fork by shadowsocks  ]
 ===========
 
 A fast tunnel proxy that helps you bypass firewalls.
